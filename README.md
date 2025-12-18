@@ -1,4 +1,3 @@
-# puyopuyo
 ## 概要
 JavaScript・HTML・CSSを用いて作成した、ブラウザ上で動作する
 落ちものパズルゲームです。
